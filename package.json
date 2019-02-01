@@ -12,6 +12,7 @@
   "dependencies": {
     "@citizenfx/client": "^1.0.1026-1",
     "@citizenfx/server": "^1.0.1027-1",
+    "@types/node": "^10.12.21",
     "ts-loader": "^5.3.3",
     "typescript": "^3.2.4",
     "webpack": "^4.29.0"

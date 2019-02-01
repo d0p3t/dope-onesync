@@ -10,7 +10,7 @@
     "target": "es6",
     "allowJs": true,
     "lib": ["es2017"],
-    "types": ["@citizenfx/server", "@citizenfx/client", "node"],
+    "types": ["@citizenfx/server", "@citizenfx/client", "@types/node"],
     "moduleResolution": "node"
   },
   "include": ["./**/*"],
